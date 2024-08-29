@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "mobile": "1234567890",
+      "password": "password123"
+    },
+    {
+      "id": 2,
+      "mobile": "0987654321",
+      "password": "securepass456"
+    },
+    {
+      "id": 3,
+      "mobile": "5554443333",
+      "password": "mypassword789"
+    }
+  ]
