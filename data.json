@@ -1,17 +1,1 @@
-[
-    {
-      "id": 1,
-      "mobile": "0797609836",
-      "password": "password123"
-    },
-    {
-      "id": 2,
-      "mobile": "0987654321",
-      "password": "securepass456"
-    },
-    {
-      "id": 3,
-      "mobile": "5554443333",
-      "password": "mypassword789"
-    }
-  ]
+[{"id":1,"mobile":"4545","password":"adg"}]
